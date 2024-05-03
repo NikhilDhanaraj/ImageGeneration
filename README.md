@@ -7,5 +7,3 @@ Training the GAN on MNIST dataset and then randomly sampling 5 latant variables 
 
 ## Diffusion Model
 Training the diffusion model on MNIST dataset and then randomly sampling 5 latant variables in latent space and then generating new images (in diffusion.ipynb file).
-
-# Part B- Image to Image Generation
